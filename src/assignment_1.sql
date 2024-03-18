@@ -139,7 +139,7 @@ SELECT user_name
 FROM users
 WHERE user_name LIKE 'M%';
 
--- Retrieve distinct user IDs
+-- Retrieve distinct user ID's
 
 SELECT DISTINCT userid
 FROM users;
