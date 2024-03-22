@@ -1,5 +1,6 @@
 # sql_repo
-## Question_1
+## This repo contains assignments on sql.
+### Question_1
 Database Creation:
 
 Created a database named 'ecommerce'.
