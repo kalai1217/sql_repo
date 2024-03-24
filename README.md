@@ -11,7 +11,7 @@
 
     - *Overview of the project*
 
-## assignemnt_1
+## assignment_1
 
 **_Summary_**
 
