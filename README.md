@@ -4,11 +4,9 @@
 
  - **src**
  
-     - `assignment` contains the respective assignment for each question.
+     - `assignment.sql` contains the respective assignment for each question.
 
- - **.gitignore**
 
-     - ignore unwanted files/directory like `.idea` when committing project to the GitHub repository.
  - **README.md**
 
     - *Overview of the project*
@@ -109,7 +107,7 @@ Inserted provided data into the `dept_tbl` table.
 ### Step 3. Query for Output:
 Wrote a query to group the data by department name (`id_deptname`), calculate the total salary for each department.
 
-## assignemnt_4
+## assignment_4
 **_summary_**
 ### Step 1. Create Table:
 Created a table named `email_signup` with columns `id`, `email_id`, and `signup_date`.
@@ -137,7 +135,7 @@ Retrieved the `quantity_sold` value from the previous row and compared it with t
 ### Question 3: First and Last Values in Ordered Set:
 Partitioned based on `product_id` and returned the first and last values in the ordered set.
 
-## assignemnt_6
+## assignment_6
 ### Entities and Attributes:
 - **Student:** 
   - Attributes: student_id (Primary Key), name, date_of_birth, email_address, major_id (Foreign Key).
